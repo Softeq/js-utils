@@ -1,0 +1,25 @@
+{
+  "name": "@softeq/utils",
+  "version": "0.0.0",
+  "description": "Javascript Utils",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:gen": "jsdoc ./ -d ./.docs -R ./README.md"
+  },
+  "keywords": [
+    "javascript",
+    "utils",
+    "softeq"
+  ],
+  "author": "Raman Marozau <engineer.morozov@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Softeq/js-utils.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Softeq/js-utils.git"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.2"
+  }
+}

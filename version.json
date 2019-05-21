@@ -1,0 +1,9 @@
+{
+  "git": {
+    "platform": "github",
+    "url": "https://github.com/Softeq/js-utils.git",
+    "pr": {
+      "target": "master"
+    }
+  }
+}
